@@ -1,11 +1,15 @@
-Since I stopped using Windows, I discovered how liberating it is to have an OS that truly belongs to you.
+hey, i'm Martin
 
-This comes with some drawbacks, though. While there are lots of really good open-source apps on Linux, most of them lack a good user experience, which can often scare non-technical users who want to try having Linux as their main OS.
+i'm a design engineer from Argentina. i'm always building something, but right now i'm mainly focused on
+- [Amekz](https://amekz.com) - game studio working on Kairos, a 2d platformer game
+- [Vintia](https://vintia.elevintia.com) - a highly customizable social Discord bot with an interactive activity
 
-And while I was always into technology, I was one of those users as well, especially when trying to do stuff like graphic design, music production, or any non-programming work.
+i use Linux as my main OS, so i build tools to make my life easier on it
+- [Rexe](https://github.com/etchebarne/rexe) - screen studio alternative for Linux
+- [Kosmos](https://github.com/etchebarne/kosmos) - a fully tab-based code editor
 
-I spent 1 year trying to switch to Linux completely, and in the end, I figured that the problem was the lack of support for essential software such as the Adobe apps, FL Studio, etc.
+i also make music and play guitar, so i build the software and plugins i need
+- [OpenFilter](https://github.com/etchebarne/openfilter) - complete CLAP fx plugin suite
+- [Plasma](https://github.com/etchebarne/plasma) - Serum alternative for Linux, made from the Vital source
 
-That's why I set the goal of building software that can be used by regular users who want to use a good, performant, debloated, and free OS with quality apps to go through their day-to-day life.
-
-[etchebarne.net](https://etchebarne.net/)
+[etchebarne.net](https://etchebarne.net) · [X](https://x.com/etchebarne) · [YouTube](https://youtube.com/@etchebarne)
